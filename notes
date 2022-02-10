@@ -1,0 +1,5 @@
+// css creat a file styless.css put all styles in there 
+// then creat index.js file put all index files in there
+// in index.html add a <link rel="stylesheet" href="/styles.css">
+// in index.html add index.js file by <script src="index.js"></script>
+
